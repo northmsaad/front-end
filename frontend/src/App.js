@@ -6,6 +6,7 @@ function App() {
       </header>
       <main>
         <h2>Featured Product</h2>
+        data.product
       </main>
     </div>
   );
